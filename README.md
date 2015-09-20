@@ -1,0 +1,1 @@
+# logstash-output-pstomp.gemspec
